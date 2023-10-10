@@ -41,7 +41,7 @@ git clone https://github.com/codewithsadee/homeverse.git
 
 ### Contact
 
-If you want to contact me, [Send a message](whatsapp://send?abid=phonenumber&text=Hello%2C%20World!).
+If you want to contact me, [Send a message](https://wa.me/27609276793).
 
 ### License
 
